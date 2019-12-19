@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: jaswanth-devops-project
-        image: jaswanth-jash/simple-devops-image
+        image: jaswanthjash/simple-devops-image
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
